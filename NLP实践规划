@@ -1,0 +1,18 @@
+原文链接：https://blog.csdn.net/Gavin__Zhou/article/details/78286379
+
+NLP有7个常见的问题：
+•	Text Classification
+•	Language Modeling
+•	Image Captioning
+•	Machine Translation
+•	Question Answering
+•	Speech Recognition
+•	Document Summarization
+
+根据我们现有的情况，我建议针对最基础的文本分类进行实践
+
+•	Text Classification
+文本分类，主要指对句子或者文档进行标签化，例如对电子邮件进行垃圾邮件识别或者情绪分析。
+
+我建议使用的数据集：
+斯坦福一篇论文公开的的IMDB网站上的电影评论数据，其中标注了评论的情绪倾向性
